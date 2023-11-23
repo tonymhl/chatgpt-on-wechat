@@ -1,0 +1,19 @@
+name: chatwechat-optional
+channels:
+  - conda-forge
+dependencies:
+  - azure-cognitiveservices-speech
+  - baidu_aip>=4.16.10
+  - chatgpt_tool_hub==0.4.6
+  - curl_cffi
+  - gtts>=2.3.1
+  - langid
+  - pydub>=0.25.1
+  - pyttsx3>=2.90
+  - speechrecognition
+  - tiktoken>=0.3.2
+  - web.py
+  - websocket-client==1.2.0
+  - wechatpy
+  - wechaty>=0.10.7
+  - wechaty_puppet>=0.4.23
